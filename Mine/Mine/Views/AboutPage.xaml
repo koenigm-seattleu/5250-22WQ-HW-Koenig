@@ -38,6 +38,7 @@
                 <Label Text="Mike Koenig"></Label>
                 <Label Text="1/11/2022 - 3:40pm"></Label>
                 <Label Text="Onine Edition"></Label>
+                <Label Text="Early Morning Mike was here"></Label>
             </StackLayout>
         </ScrollView>
     </Grid>
