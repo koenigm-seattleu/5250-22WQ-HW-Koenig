@@ -37,7 +37,7 @@
                 <Label Text="CPSC 5250 WQ22"></Label>
                 <Label Text="Mike Koenig"></Label>
                 <Label Text="1/11/2022 - 3:40pm"></Label>
-                <Label Text="Onine Edition"></Label>
+                <Label Text="Online Edition"></Label>
                 <Label Text="Early Morning Mike was here"></Label>
             </StackLayout>
         </ScrollView>
