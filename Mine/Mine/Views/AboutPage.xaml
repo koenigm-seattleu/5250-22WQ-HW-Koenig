@@ -39,6 +39,7 @@
                 <Label Text="1/11/2022 - 3:40pm"></Label>
                 <Label Text="Online Edition"></Label>
                 <Label Text="Early Morning Mike was here"></Label>
+                <Label Text="Sumi the Cute Puppy"></Label>
             </StackLayout>
         </ScrollView>
     </Grid>
