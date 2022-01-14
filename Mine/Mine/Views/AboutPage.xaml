@@ -40,6 +40,7 @@
                 <Label Text="Online Edition"></Label>
                 <Label Text="Early Morning Mike was here"></Label>
                 <Label Text="Sumi the Cute Puppy"></Label>
+                <Label Text="Doug the Elf Fighter"></Label>
             </StackLayout>
         </ScrollView>
     </Grid>
