@@ -41,6 +41,7 @@
                 <Label Text="Early Morning Mike was here"></Label>
                 <Label Text="Sumi the Cute Puppy"></Label>
                 <Label Text="Elf Fighter Doug the Awesome"></Label>
+                <Label Text="Troll Boss Jea"></Label>
             </StackLayout>
         </ScrollView>
     </Grid>
