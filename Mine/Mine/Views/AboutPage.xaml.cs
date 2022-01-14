@@ -10,6 +10,10 @@ namespace Mine.Views
     [DesignTimeVisible(false)]
     public partial class AboutPage : ContentPage
     {
+     
+        /// <summary>
+        /// About Page Default Constructor
+        /// </summary>
         public AboutPage()
         {
             InitializeComponent();
